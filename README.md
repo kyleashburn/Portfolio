@@ -21,7 +21,7 @@ It relies on the CDX API from the Wayback Machine in combination with the reques
 In this long-term project, I've been working to build off my Wayback Automation project by running some simple text mining on the releases I'm pulling. I've been examining the title and body lengths of press releases and their sentiment by ambassador in office. Currently, I'm working to extend it by running topic modeling on the corpus of releases.
 
 **[Peering Into Parler - Masters Paper:](https://github.com/kyleashburn/Peering-into-Parler---Masters-Paper)**
-This is the github repo for my masters paper. It relies on work I did back in the Fall of 2021 and builds on it. This work is primarly focused on term frequency and topic modeling (LDA) in Python. 
+This is the github repo for my masters paper. It relies on work I did back in the Fall of 2021 and builds on it. This work is primarly focused on term frequency and topic modeling (LDA) in Python. In the hopes of reducing the stress on my fellow researchers, I did **not** spend substantial time cleaning up my code beyond what I had when I was doing my work. Thus, while I realize this may not be the perfect example for my portfolio, I feel the benefits to others outweight the costs to myself. 
 
 **[Tableau - UNC Faculty Diversity:](https://github.com/kyleashburn/UNC-Faculty-Diversity---Tableau)**
 This project was a midterm project in my information visualization class. In this project, I pulled data from a few PDFs using Python and then used that data to make a series of visualizations to clear up what the state of UNC faculty diversity is. 
