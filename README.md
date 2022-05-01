@@ -19,3 +19,12 @@ It relies on the CDX API from the Wayback Machine in combination with the reques
 
 **[PRC Embassy Text Mining:](https://github.com/kyleashburn/PRC_Embassy_Text_Mining)** 
 In this long-term project, I've been working to build off my Wayback Automation project by running some simple text mining on the releases I'm pulling. I've been examining the title and body lengths of press releases and their sentiment by ambassador in office. Currently, I'm working to extend it by running topic modeling on the corpus of releases.
+
+**[Peering Into Parler - Masters Paper](https://github.com/kyleashburn/Peering-into-Parler---Masters-Paper)**
+This is the github repo for my masters paper. It relies on work I did back in the Fall of 2021 and builds on it. This work is primarly focused on term frequency and topic modeling (LDA) in Python. 
+
+**[Tableau - UNC Faculty Diversity](https://github.com/kyleashburn/UNC-Faculty-Diversity---Tableau)**
+This project was a midterm project in my information visualization class. In this project, I pulled data from a few PDFs using Python and then used that data to make a series of visualizations to clear up what the state of UNC faculty diversity is. 
+
+**[Tableau - UNC System Salaries](https://github.com/kyleashburn/UNC-System-Salaries---Tableau)**
+This project was a final project in my information visualization class. In this project, I provide visualizations that enable both a high level overview of the state of salaries as well as a more granular view looking at just UNC Chapel Hill. 
