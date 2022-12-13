@@ -28,3 +28,7 @@ This project was a midterm project in my information visualization class. In thi
 
 **[Tableau - UNC System Salaries:](https://github.com/kyleashburn/UNC-System-Salaries---Tableau)**
 This project was a final project in my information visualization class. In this project, I provide visualizations that enable both a high level overview of the state of salaries as well as a more granular view looking at just UNC Chapel Hill. 
+
+**["A Practical Guide to Evil" End to End Project:](https://github.com/kyleashburn/PG2E)**
+An end to end Python (in progress)  project scraping a WordPress serial novel series with scrapy. Post-scraping, analysis on a number of axes was conducted including topic modeling with LDA (among other techniques), sentiment analysis, NER, periodicity analysis, and other textual analysis on the novel chapters as well as comments left on each chapter.
+
